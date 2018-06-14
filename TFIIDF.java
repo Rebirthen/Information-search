@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Test {
+public class TFIDF {
 
     public double tf(List<String> doc, String term) {
 
